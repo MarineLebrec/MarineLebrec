@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @MarineLebrec
-- 👀 I’m interested in oceanographic data analysis and analytical chemistry
+- 👀 I’m interested in oceanographic data analysis and climate change
 - 🌱 I’m currently a Master's student at Moss Landing Marine Laboratories where I am working on developing methods for measuring oceanographic nutrients using programmable Flow Injection (pFI).
 
 <!---
